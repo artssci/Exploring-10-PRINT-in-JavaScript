@@ -3,7 +3,7 @@
 👩‍💻 **Goal:** Modify the *10 PRINT* pattern by changing numbers, adding randomness, and experimenting with colors.
 
 ## **1️⃣ Run the Code and Observe**
-- Open **VS Code**, save the *10 PRINT* code in a index.html file
+- Open **VS Code**, copy the *10 PRINT* code in a index.html file
 - Run the *10 PRINT* code below using **Live Preview**.
 - Watch how the pattern is generated on the screen.
 - **Reflect:** What do you notice about the pattern? How does it work?
